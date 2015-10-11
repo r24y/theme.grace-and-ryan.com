@@ -1,0 +1,11 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@pageFont: Muli, sans-serif;
+@headerFont: Ovo, serif;
+@googleFontRequest: Ovo|Muli;
+
+@teal: #084B8A;
+@primaryColor: @teal;
+@secondaryColor: @yellow;
